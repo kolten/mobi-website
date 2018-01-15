@@ -3,9 +3,11 @@ import Link from 'gatsby-link'
 
 // Add more pages here
 const pages = [
+  {pageTitle: 'Home', link: ''},
   {pageTitle: 'About', link: 'about'},
   {pageTitle: 'Workshops', link: 'workshops'},
   {pageTitle: 'Social Coding', link: 'social'},
+  {pageTitle: 'Login', link: 'https://member.idappthat.mobi/login'},
 ]
 
 const Header = () => (
