@@ -7,7 +7,6 @@ const pages = [
   {pageTitle: 'About', link: 'about'},
   {pageTitle: 'Workshops', link: 'workshops'},
   {pageTitle: 'Social Coding', link: 'social'},
-  {pageTitle: 'Login', link: 'https://member.idappthat.mobi/login'},
 ]
 
 const Header = () => (

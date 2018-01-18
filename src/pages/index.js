@@ -10,7 +10,7 @@ const quickLinks = [
 
 const IndexPage = () => (
   <div style={{textAlign: 'center'}}>
-      <div style={{paddingBottom: '4.45rem'}}> 
+      <div style={{ paddingTop: '4.45rem', marginBottom: '4.45rem', backgroundColor: '#daecf2' }}> 
         <h1>Mobi</h1>
         <h2>Learn Real World Skills for Mobile and Web Development</h2>
         <div>
