@@ -25,7 +25,7 @@ const IndexPage = () => (
               About Us
             </Link>
           </button>
-          <button style={{width: '6.43rem',margin: '1.45rem'}}>
+          <button className={button}>
           <Link
               to={'/'}
               style={{

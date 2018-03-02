@@ -40,6 +40,7 @@ template {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+
 }
 a:active,
 a:hover {
@@ -622,3 +623,10 @@ pre tt:after {
     font-size: 100%;
   }
 }
+.button {
+  background-color: aliceblue;
+  width: '6.43rem';
+  margin: '1.45rem';
+}
+
+
