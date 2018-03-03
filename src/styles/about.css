@@ -1,0 +1,91 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-flow: wrap;
+    
+    padding: 10px 50px;
+}
+
+.container-title{
+
+}
+
+
+.card-container{
+    display: flex;
+    align-items: center;
+
+
+    
+    /* background-color: rgb(166, 190, 226); */
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 250px;
+    margin: 50px 5px;
+
+}
+
+.card-sm{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 150px;
+
+    margin: 50px 5px;
+
+}
+
+.card > div{
+    margin-top: 10px;
+}
+
+.card-image{
+    width: 50%;
+    height: 50%;
+    padding-top: 100px;    /*Change this. effects the y location of iamge*/
+    border-radius: 100%;
+    text-align: center;
+    
+    background-color: #E5E9F2;
+}
+
+.card-title{
+    padding-top: 30px;
+    font-weight: bold;
+}
+
+.card-about{
+    text-align: center;
+}
+
+
+
+/* Small Device */
+@media only screen and (max-width: 576px) {
+
+}
+
+/* Med Device */
+@media only screen and (max-width: 768px) {
+    .card-container{
+        flex-direction: column;
+    }
+}
+
+
+/* large Device */
+/* @media only screen and (max-width: 992px) {
+
+} */
+
+/* extra large Device */
+/* @media only screen and (max-width: 1200px) {
+
+} */
+
+

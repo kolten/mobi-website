@@ -1,7 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-
 const quickLinks = [
   {icon: '🕗', name: 'Mobi Calendar', link: '', description: "Mobi's Best Calendar"},
   {icon: '⚚', name: 'Mobi Facebook', link: '', description: "Facebook Group"},
@@ -25,7 +24,7 @@ const IndexPage = () => (
               About Us
             </Link>
           </button>
-          <button className={button}>
+          <button>
           <Link
               to={'/'}
               style={{
