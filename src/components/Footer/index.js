@@ -6,23 +6,30 @@ const Footer = () => (
   <div
     style={{
       background: '#5a7287',
-      marginBottom: '1.45rem',
     }}
   >
     <div
       style={{
         margin: ' 0 auto',
         display: 'flex',
-        justifyContent: 'space-between',
-        alignItems: 'center'
+        justifyContent: 'space-around',
+        alignItems: 'center',
+        padding: '5px'
       }}
-    >
-			<p> 500 UTA Blvd · Arlington, TX 76019 · USA Office: ERB #437 </p>
-			<button>
+    > 
+      <div style={{display: 'flex', flexDirection: 'column'}}>
+			  500 UTA Blvd Arlington, TX 76019
+        <br></br>
+        Office: ERB #437
+      </div>
+      <div style={{display: 'flex', flexDirection: 'column', alignSelf: 'center'}}>
+			<button style={{}}>
 					<a href='uta.mobi@gmail.com'> UTA.Mobi@gmail.com</a>
 			</button>
-			<p>Copyright © 2018, Mobi</p>
-			<img />
+      </div>
+      <div style={{display: 'flex', flexDirection: 'column'}}> 
+			Copyright © 2018, Mobi
+      </div>
     </div>
   </div>
 )
