@@ -1,6 +1,10 @@
 import React from 'react'
 import Link from 'gatsby-link'
+<<<<<<< HEAD
 import Cards from '../components/Cards'
+=======
+import Cards from './../components/Cards'
+>>>>>>> fab06e33ac2582afe3b80ea513889aa359ca1b72
 
 import '../styles/about.css'
 import mac from './images/monitor.svg'
@@ -57,9 +61,16 @@ const about = () => (
 
     <div className="container" id="about-intro">
       <h2 className="container-title">What's Mobi?</h2>
+<<<<<<< HEAD
       
       <p> Mobi (Student Association for the advancement of Mobile Development) is a student organization at the University of Texas at Arlington that aims to engage
       its members in an active project based learning environment for mobile development while promoting scholastic excellence. We are an organization for developers, run by developers.</p>
+=======
+      <div style={{textAlign: 'center'}}>
+      Mobi (Student Association for the advancement of Mobile Development) is a student organization at the University of Texas at Arlington that aims to engage
+      its members in an active project based learning environment for mobile development while promoting scholastic excellence. We are an organization for developers, run by developers.
+      </div>
+>>>>>>> fab06e33ac2582afe3b80ea513889aa359ca1b72
     </div>
 
 
@@ -78,8 +89,6 @@ const about = () => (
       <Cards data={membersData.slice(3,6)} small />
 
     </div>
-
-    <Link to="/">Go back to the homepage</Link>
   </div>
 )
 
