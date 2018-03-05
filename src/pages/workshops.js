@@ -1,12 +1,44 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Cards from '../components/Cards'
+
+const instructorData = [
+  {
+    image: "",
+    title: "Mary Huerta \n IOS, Web",
+  },
+  {
+    image: "",
+    title: "Kolten \n Koltin",
+  },
+  {
+    image: "",
+    title: "Khahn \n Redux",
+  }
+];
 
 
 const workshops = () => (
   <div>
-    <h1>Hi from the workshops page</h1>
-    <p>Welcome to workshops</p>
-    <Link to="/">Go back to the homepage</Link>
+
+    <div className="container" id="workshop-intro">
+      <h2 className="container-title">Mobi Learn Workshops</h2>
+
+      <p>Mobi Learn is open to anyone. We'll give you the tools and tips to get started making web and mobile development. </p>
+    </div>
+      
+    <div className="container" id="workshop-upcoming">
+      <h2 className="container-title">Upcoming Workshops</h2>
+      <div className="upcoming-cal"></div>
+      
+    </div>
+    
+    <div className="container" id="workshop-instructors">
+      <h2 className="container-title">Instructors</h2>
+
+      <Cards data={ instructorData } small /> 
+
+    </div>
   </div>
 )
 
