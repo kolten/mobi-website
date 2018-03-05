@@ -8,12 +8,12 @@ const quickLinks = [
 ]
 
 const IndexPage = () => (
-  <div style={{textAlign: 'center'}}>
-      <div style={{ paddingTop: '4.45rem', marginBottom: '4.45rem', backgroundColor: '#daecf2' }}> 
+  <div style={{display: 'flex', flexDirection: 'column', alignItems: 'stretch', textAlign: 'center'}}>
+      <div style={{ display: 'flex', flexDirection: 'column', backgroundColor: '#daecf2' }}> 
         <h1>Mobi</h1>
         <h2>Learn Real World Skills for Mobile and Web Development</h2>
-        <div>
-          <button style={{width: '6.43rem',margin: '1.45rem'}}>
+        <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-around', margin: '30px'}}>
+          <button style={{width: '6.43rem'}}>
           <Link
               to={'/about'}
               style={{
@@ -36,12 +36,11 @@ const IndexPage = () => (
             </Link>
           </button>
         </div>
-        
       </div>
     
-      <div>
+      <div style={{display: 'flex', flexDirection: 'column', marginTop: '60px'}}>
         <h3>Quick Links</h3>
-        <div style={{display: 'flex', justifyContent: "space-around"}}>
+        <div style={{display: 'flex', justifyContent: "space-around", alignItems: 'center'}}>
           {quickLinks.map((quickLink) => (
             <div>
               <p>{`${quickLink.icon}`}</p>
@@ -51,8 +50,6 @@ const IndexPage = () => (
           ))}
         </div>
       </div>
-    
-    <Link to="/page-2/">Go to page 2</Link>
   </div>
 )
 
