@@ -1,6 +1,8 @@
-import React from 'react'
+import React, { Component } from 'react'
 import Link from 'gatsby-link'
 import Cards from '../components/Cards'
+import Calendar from '../components/Calendar'
+
 
 const instructorData = [
   {
@@ -18,9 +20,9 @@ const instructorData = [
 ];
 
 
+
 const workshops = () => (
   <div>
-
     <div className="container" id="workshop-intro">
       <h2 className="container-title">Mobi Learn Workshops</h2>
 
@@ -29,17 +31,16 @@ const workshops = () => (
       
     <div className="container" id="workshop-upcoming">
       <h2 className="container-title">Upcoming Workshops</h2>
-      <div className="upcoming-cal"></div>
       
+      <Calendar />
     </div>
     
     <div className="container" id="workshop-instructors">
       <h2 className="container-title">Instructors</h2>
 
       <Cards data={ instructorData } small /> 
-
     </div>
   </div>
-)
+);
 
 export default workshops

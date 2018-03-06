@@ -1,0 +1,52 @@
+.calendar-container{
+    height: 500px;
+    /* Change width later */
+    width: 450px;
+    margin-bottom: 50px;
+
+
+}
+
+
+/* ---Calendar--- */
+
+.calendar{
+
+    padding: 10px 0;
+
+    border: solid #8A97A9 1px;    
+}
+
+.calendar-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    margin-bottom: 15px;
+    border-bottom: solid #8A97A9 1px;
+    
+}
+
+.calendar-header > button{
+    background: #DCDCDC;
+    border: none;
+}
+
+.month-row{
+    display: flex;
+
+}
+
+.day-cell{
+    width: 100%;
+    height: 50px;
+    margin: 1px;
+
+    text-align: center;
+}
+
+.today{
+    color: rgb(247, 247, 247);
+    background: rgb(46, 46, 141);
+    box-shadow: 1px 1px 4px 4px #ccc; 
+}
+

@@ -1,0 +1,390 @@
+{
+    "kind": "calendar#events",
+    "etag": "\"p32oab3d5hf7di0g\"",
+    "summary": "ijaimes2872@gmail.com",
+    "updated": "2018-03-02T16:45:36.526Z",
+    "timeZone": "America/Chicago",
+    "accessRole": "owner",
+    "defaultReminders": [
+    ],
+    "nextPageToken": "CigKGjJsYzJubXFpamNpOGN1dW5ybzIzbGZ2ODJ2GAEggICAisT_rYgWGg0IABIAGLCljaWLztkC",
+    "items": [
+     {
+   
+   
+      "kind": "calendar#event",
+      "etag": "\"3030459487419000\"",
+      "id": "1houirdu2nplpvuih47j1lfiqn",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWhvdWlyZHUybnBscHZ1aWg0N2oxbGZpcW4gaWphaW1lczI4NzJAbQ",
+      "created": "2018-01-06T09:09:03.000Z",
+      "updated": "2018-01-06T09:09:03.839Z",
+      "summary": "Registration begins for Summer & Fall 2018 Terms",
+      "colorId": "4",
+      "creator": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "organizer": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "start": {
+       "date": "2018-04-02"
+      },
+      "end": {
+       "date": "2018-04-03"
+      },
+      "transparency": "transparent",
+      "iCalUID": "1houirdu2nplpvuih47j1lfiqn@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      }
+     },
+     {
+   
+   
+      "kind": "calendar#event",
+      "etag": "\"3030459553612000\"",
+      "id": "6nffgd0tjk329egcv3uucqe6n1",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Nm5mZmdkMHRqazMyOWVnY3YzdXVjcWU2bjEgaWphaW1lczI4NzJAbQ",
+      "created": "2018-01-06T09:09:36.000Z",
+      "updated": "2018-01-06T09:09:36.890Z",
+      "summary": "Last Day of Classes",
+      "colorId": "4",
+      "creator": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "organizer": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "start": {
+       "date": "2018-05-04"
+      },
+      "end": {
+       "date": "2018-05-05"
+      },
+      "transparency": "transparent",
+      "iCalUID": "6nffgd0tjk329egcv3uucqe6n1@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false,
+       "overrides": [
+        {
+         "method": "popup",
+         "minutes": 39060
+        }
+       ]
+      }
+     },
+     {
+   
+   
+      "kind": "calendar#event",
+      "etag": "\"3030459689946000\"",
+      "id": "5hes8ppk2nvq6hm5ssk0pefq2a",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NWhlczhwcGsybnZxNmhtNXNzazBwZWZxMmEgaWphaW1lczI4NzJAbQ",
+      "created": "2018-01-06T09:10:44.000Z",
+      "updated": "2018-01-06T09:10:45.063Z",
+      "summary": "Register for Orientation",
+      "colorId": "4",
+      "creator": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "organizer": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2018-01-08T13:00:00-06:00"
+      },
+      "end": {
+       "dateTime": "2018-01-08T13:30:00-06:00"
+      },
+      "iCalUID": "5hes8ppk2nvq6hm5ssk0pefq2a@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false,
+       "overrides": [
+        {
+         "method": "popup",
+         "minutes": 10
+        },
+        {
+         "method": "email",
+         "minutes": 30
+        }
+       ]
+      }
+     },
+     {
+   
+   
+      "kind": "calendar#event",
+      "etag": "\"3031230439809000\"",
+      "id": "7d9rpoap14anbm3gjqo2s1pc27",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2Q5cnBvYXAxNGFuYm0zZ2pxbzJzMXBjMjcgaWphaW1lczI4NzJAbQ",
+      "created": "2018-01-06T09:11:14.000Z",
+      "updated": "2018-01-15T07:16:05.447Z",
+      "summary": "MLK Day",
+      "colorId": "4",
+      "creator": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "organizer": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "start": {
+       "date": "2018-01-15"
+      },
+      "end": {
+       "date": "2018-01-16"
+      },
+      "transparency": "transparent",
+      "iCalUID": "7d9rpoap14anbm3gjqo2s1pc27@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      }
+     },
+     {
+   
+   
+      "kind": "calendar#event",
+      "etag": "\"3028653854112000\"",
+      "id": "1f1h5ki0g7mj0esbqo7662u8r8",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWYxaDVraTBnN21qMGVzYnFvNzY2MnU4cjggaWphaW1lczI4NzJAbQ",
+      "created": "2017-12-06T19:48:40.000Z",
+      "updated": "2018-01-16T00:55:33.956Z",
+      "summary": "First Day of School",
+      "creator": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "organizer": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "start": {
+       "date": "2018-01-16"
+      },
+      "end": {
+       "date": "2018-01-17"
+      },
+      "transparency": "transparent",
+      "iCalUID": "1f1h5ki0g7mj0esbqo7662u8r8@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false,
+       "overrides": [
+        {
+         "method": "email",
+         "minutes": 9070
+        }
+       ]
+      }
+     },
+     {
+   
+   
+      "kind": "calendar#event",
+      "etag": "\"3032128616381000\"",
+      "id": "67mclbejvnbrskmn87v5gp7e3d",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NjdtY2xiZWp2bmJyc2ttbjg3djVncDdlM2RfMjAxODAxMTdUMTUwMDAwWiBpamFpbWVzMjg3MkBt",
+      "created": "2018-01-16T00:58:28.000Z",
+      "updated": "2018-01-16T00:58:28.323Z",
+      "summary": "CSE - 1320 Eng. Research 131",
+      "creator": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "organizer": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2018-01-17T09:00:00-06:00",
+       "timeZone": "America/Chicago"
+      },
+      "end": {
+       "dateTime": "2018-01-17T09:50:00-06:00",
+       "timeZone": "America/Chicago"
+      },
+      "recurrence": [
+       "RRULE:FREQ=WEEKLY;UNTIL=20180505T045959Z;BYDAY=MO,WE,FR"
+      ],
+      "iCalUID": "67mclbejvnbrskmn87v5gp7e3d@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      }
+     },
+     {
+   
+   
+      "kind": "calendar#event",
+      "etag": "\"3032128749576000\"",
+      "id": "6saie20nbq5kqf5rbodbtu6kgs",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NnNhaWUyMG5icTVrcWY1cmJvZGJ0dTZrZ3NfMjAxODAxMTdUMTkwMDAwWiBpamFpbWVzMjg3MkBt",
+      "created": "2018-01-16T00:59:34.000Z",
+      "updated": "2018-01-16T00:59:34.829Z",
+      "summary": "MATH 1426-051 (Pickard Hall 311)",
+      "creator": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "organizer": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2018-01-17T13:00:00-06:00",
+       "timeZone": "America/Chicago"
+      },
+      "end": {
+       "dateTime": "2018-01-17T13:50:00-06:00",
+       "timeZone": "America/Chicago"
+      },
+      "recurrence": [
+       "RRULE:FREQ=WEEKLY;UNTIL=20180503T045959Z;BYDAY=MO,WE"
+      ],
+      "iCalUID": "6saie20nbq5kqf5rbodbtu6kgs@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      }
+     },
+     {
+   
+   
+      "kind": "calendar#event",
+      "etag": "\"3032321355306000\"",
+      "id": "6q9hsv0dea8bthkmdlj3a3djfo",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NnE5aHN2MGRlYThidGhrbWRsajNhM2RqZm8gaWphaW1lczI4NzJAbQ",
+      "created": "2018-01-17T03:44:19.000Z",
+      "updated": "2018-01-17T03:44:56.146Z",
+      "summary": "Activity Fair Day - E.H. Hereford University Center",
+      "colorId": "4",
+      "creator": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "organizer": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2018-01-24T10:00:00-06:00"
+      },
+      "end": {
+       "dateTime": "2018-01-24T13:00:00-06:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "6q9hsv0dea8bthkmdlj3a3djfo@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      }
+     },
+     {
+   
+   
+      "kind": "calendar#event",
+      "etag": "\"3032278560180000\"",
+      "id": "0tnt26prk54udq8vp65g5sik5g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MHRudDI2cHJrNTR1ZHE4dnA2NWc1c2lrNWdfMjAxODAxMTdUMjAwMDAwWiBpamFpbWVzMjg3MkBt",
+      "created": "2018-01-16T01:01:02.000Z",
+      "updated": "2018-01-17T18:34:57.553Z",
+      "summary": "Math 1426-050 (COBA 245W)",
+      "creator": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "organizer": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2018-01-17T14:00:00-06:00",
+       "timeZone": "America/Chicago"
+      },
+      "end": {
+       "dateTime": "2018-01-17T14:50:00-06:00",
+       "timeZone": "America/Chicago"
+      },
+      "recurrence": [
+       "RRULE:FREQ=WEEKLY;UNTIL=20180505T045959Z;BYDAY=MO,WE,FR"
+      ],
+      "iCalUID": "0tnt26prk54udq8vp65g5sik5g@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      }
+     },
+     {
+   
+   
+      "kind": "calendar#event",
+      "etag": "\"3032632756264000\"",
+      "id": "2lc2nmqijci8cuunro23lfv82v",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MmxjMm5tcWlqY2k4Y3V1bnJvMjNsZnY4MnYgaWphaW1lczI4NzJAbQ",
+      "created": "2018-01-14T01:43:31.000Z",
+      "updated": "2018-01-18T22:59:38.132Z",
+      "summary": "UTA Spring kickoff - CS Networking/local resources",
+      "creator": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "organizer": {
+       "email": "ijaimes2872@gmail.com",
+       "displayName": "Ivan Jaimes",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2018-01-18T16:30:00-06:00"
+      },
+      "end": {
+       "dateTime": "2018-01-18T18:00:00-06:00"
+      },
+      "iCalUID": "2lc2nmqijci8cuunro23lfv82v@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      }
+     }
+    ]
+   }

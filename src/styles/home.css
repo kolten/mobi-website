@@ -1,0 +1,15 @@
+.home-intro{
+    color: rgb(0, 0, 15);
+    position: relative;
+    height: 500px;
+    padding-top: 100px;
+}
+.home-image{
+    background: url("https://media.giphy.com/media/21SL1bCuW3Us1hdMaV/giphy.gif");
+    background-size: cover;
+    opacity: .3;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0; right: 0;
+    top:0; bottom: 0;
+}
