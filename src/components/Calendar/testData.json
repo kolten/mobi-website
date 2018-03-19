@@ -9,82 +9,8 @@
     ],
     "nextPageToken": "CigKGjJsYzJubXFpamNpOGN1dW5ybzIzbGZ2ODJ2GAEggICAisT_rYgWGg0IABIAGLCljaWLztkC",
     "items": [
-     {
-   
-   
-      "kind": "calendar#event",
-      "etag": "\"3030459487419000\"",
-      "id": "1houirdu2nplpvuih47j1lfiqn",
-      "status": "confirmed",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MWhvdWlyZHUybnBscHZ1aWg0N2oxbGZpcW4gaWphaW1lczI4NzJAbQ",
-      "created": "2018-01-06T09:09:03.000Z",
-      "updated": "2018-01-06T09:09:03.839Z",
-      "summary": "Registration begins for Summer & Fall 2018 Terms",
-      "colorId": "4",
-      "creator": {
-       "email": "ijaimes2872@gmail.com",
-       "displayName": "Ivan Jaimes",
-       "self": true
-      },
-      "organizer": {
-       "email": "ijaimes2872@gmail.com",
-       "displayName": "Ivan Jaimes",
-       "self": true
-      },
-      "start": {
-       "date": "2018-04-02"
-      },
-      "end": {
-       "date": "2018-04-03"
-      },
-      "transparency": "transparent",
-      "iCalUID": "1houirdu2nplpvuih47j1lfiqn@google.com",
-      "sequence": 0,
-      "reminders": {
-       "useDefault": false
-      }
-     },
-     {
-   
-   
-      "kind": "calendar#event",
-      "etag": "\"3030459553612000\"",
-      "id": "6nffgd0tjk329egcv3uucqe6n1",
-      "status": "confirmed",
-      "htmlLink": "https://www.google.com/calendar/event?eid=Nm5mZmdkMHRqazMyOWVnY3YzdXVjcWU2bjEgaWphaW1lczI4NzJAbQ",
-      "created": "2018-01-06T09:09:36.000Z",
-      "updated": "2018-01-06T09:09:36.890Z",
-      "summary": "Last Day of Classes",
-      "colorId": "4",
-      "creator": {
-       "email": "ijaimes2872@gmail.com",
-       "displayName": "Ivan Jaimes",
-       "self": true
-      },
-      "organizer": {
-       "email": "ijaimes2872@gmail.com",
-       "displayName": "Ivan Jaimes",
-       "self": true
-      },
-      "start": {
-       "date": "2018-05-04"
-      },
-      "end": {
-       "date": "2018-05-05"
-      },
-      "transparency": "transparent",
-      "iCalUID": "6nffgd0tjk329egcv3uucqe6n1@google.com",
-      "sequence": 0,
-      "reminders": {
-       "useDefault": false,
-       "overrides": [
-        {
-         "method": "popup",
-         "minutes": 39060
-        }
-       ]
-      }
-     },
+
+     
      {
    
    
@@ -108,10 +34,10 @@
        "self": true
       },
       "start": {
-       "dateTime": "2018-01-08T13:00:00-06:00"
+       "dateTime": "2018-03-08T13:00:00-06:00"
       },
       "end": {
-       "dateTime": "2018-01-08T13:30:00-06:00"
+       "dateTime": "2018-03-08T13:30:00-06:00"
       },
       "iCalUID": "5hes8ppk2nvq6hm5ssk0pefq2a@google.com",
       "sequence": 0,
@@ -127,41 +53,6 @@
          "minutes": 30
         }
        ]
-      }
-     },
-     {
-   
-   
-      "kind": "calendar#event",
-      "etag": "\"3031230439809000\"",
-      "id": "7d9rpoap14anbm3gjqo2s1pc27",
-      "status": "confirmed",
-      "htmlLink": "https://www.google.com/calendar/event?eid=N2Q5cnBvYXAxNGFuYm0zZ2pxbzJzMXBjMjcgaWphaW1lczI4NzJAbQ",
-      "created": "2018-01-06T09:11:14.000Z",
-      "updated": "2018-01-15T07:16:05.447Z",
-      "summary": "MLK Day",
-      "colorId": "4",
-      "creator": {
-       "email": "ijaimes2872@gmail.com",
-       "displayName": "Ivan Jaimes",
-       "self": true
-      },
-      "organizer": {
-       "email": "ijaimes2872@gmail.com",
-       "displayName": "Ivan Jaimes",
-       "self": true
-      },
-      "start": {
-       "date": "2018-01-15"
-      },
-      "end": {
-       "date": "2018-01-16"
-      },
-      "transparency": "transparent",
-      "iCalUID": "7d9rpoap14anbm3gjqo2s1pc27@google.com",
-      "sequence": 0,
-      "reminders": {
-       "useDefault": false
       }
      },
      {
@@ -186,10 +77,10 @@
        "self": true
       },
       "start": {
-       "date": "2018-01-16"
+       "date": "2018-03-16"
       },
       "end": {
-       "date": "2018-01-17"
+       "date": "2018-03-17"
       },
       "transparency": "transparent",
       "iCalUID": "1f1h5ki0g7mj0esbqo7662u8r8@google.com",
@@ -204,44 +95,7 @@
        ]
       }
      },
-     {
-   
-   
-      "kind": "calendar#event",
-      "etag": "\"3032128616381000\"",
-      "id": "67mclbejvnbrskmn87v5gp7e3d",
-      "status": "confirmed",
-      "htmlLink": "https://www.google.com/calendar/event?eid=NjdtY2xiZWp2bmJyc2ttbjg3djVncDdlM2RfMjAxODAxMTdUMTUwMDAwWiBpamFpbWVzMjg3MkBt",
-      "created": "2018-01-16T00:58:28.000Z",
-      "updated": "2018-01-16T00:58:28.323Z",
-      "summary": "CSE - 1320 Eng. Research 131",
-      "creator": {
-       "email": "ijaimes2872@gmail.com",
-       "displayName": "Ivan Jaimes",
-       "self": true
-      },
-      "organizer": {
-       "email": "ijaimes2872@gmail.com",
-       "displayName": "Ivan Jaimes",
-       "self": true
-      },
-      "start": {
-       "dateTime": "2018-01-17T09:00:00-06:00",
-       "timeZone": "America/Chicago"
-      },
-      "end": {
-       "dateTime": "2018-01-17T09:50:00-06:00",
-       "timeZone": "America/Chicago"
-      },
-      "recurrence": [
-       "RRULE:FREQ=WEEKLY;UNTIL=20180505T045959Z;BYDAY=MO,WE,FR"
-      ],
-      "iCalUID": "67mclbejvnbrskmn87v5gp7e3d@google.com",
-      "sequence": 0,
-      "reminders": {
-       "useDefault": false
-      }
-     },
+     
      {
    
    
@@ -264,11 +118,11 @@
        "self": true
       },
       "start": {
-       "dateTime": "2018-01-17T13:00:00-06:00",
+       "dateTime": "2018-03-17T13:00:00-06:00",
        "timeZone": "America/Chicago"
       },
       "end": {
-       "dateTime": "2018-01-17T13:50:00-06:00",
+       "dateTime": "2018-03-17T13:50:00-06:00",
        "timeZone": "America/Chicago"
       },
       "recurrence": [
@@ -303,10 +157,10 @@
        "self": true
       },
       "start": {
-       "dateTime": "2018-01-24T10:00:00-06:00"
+       "dateTime": "2018-03-24T10:00:00-06:00"
       },
       "end": {
-       "dateTime": "2018-01-24T13:00:00-06:00"
+       "dateTime": "2018-03-24T13:00:00-06:00"
       },
       "transparency": "transparent",
       "iCalUID": "6q9hsv0dea8bthkmdlj3a3djfo@google.com",
@@ -337,11 +191,11 @@
        "self": true
       },
       "start": {
-       "dateTime": "2018-01-17T14:00:00-06:00",
+       "dateTime": "2018-03-17T14:00:00-06:00",
        "timeZone": "America/Chicago"
       },
       "end": {
-       "dateTime": "2018-01-17T14:50:00-06:00",
+       "dateTime": "2018-03-17T14:50:00-06:00",
        "timeZone": "America/Chicago"
       },
       "recurrence": [
@@ -375,10 +229,10 @@
        "self": true
       },
       "start": {
-       "dateTime": "2018-01-18T16:30:00-06:00"
+       "dateTime": "2018-03-18T16:30:00-06:00"
       },
       "end": {
-       "dateTime": "2018-01-18T18:00:00-06:00"
+       "dateTime": "2018-03-18T18:00:00-06:00"
       },
       "iCalUID": "2lc2nmqijci8cuunro23lfv82v@google.com",
       "sequence": 0,
