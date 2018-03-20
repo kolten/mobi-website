@@ -7,15 +7,18 @@ import Calendar from '../components/Calendar'
 const instructorData = [
   {
     image: "",
-    title: "Mary Huerta \n IOS, Web",
+    title: "Mary Huerta",
+    about:"IOS, Web"
   },
   {
     image: "",
-    title: "Kolten \n Koltin",
+    title: "Kolten",
+    about: "Koltin"
   },
   {
     image: "",
-    title: "Khahn \n Redux",
+    title: "Khahn",
+    about: "Redux"
   }
 ];
 

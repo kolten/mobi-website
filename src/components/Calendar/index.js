@@ -7,6 +7,7 @@ import '../../styles/calendar.css'
 
 
 
+// @TODO add events for the next month, not just current month, to the calendar-list
 class Calendar extends Component{
   constructor(props){
     super(props);
@@ -144,6 +145,7 @@ class Calendar extends Component{
    *
    */
   dayDiv(day){
+
     let isActive = this.isActivityOnThisDay(day);
     let isToday  = day+1 === this.state.today.getDate();
 
@@ -155,11 +157,10 @@ class Calendar extends Component{
 
     return (
       <div className="day-cell" key={day}>
-        <span 
-          className={spanClasses}
-        >
+        <span className={isToday ? "today" : ""} >
           {day + 1}
         </span>
+        {isActive ? <div className="day-cell-underline"></div> : ""}
       </div>
     );
   }

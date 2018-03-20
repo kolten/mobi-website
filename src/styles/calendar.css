@@ -2,6 +2,15 @@
     @TODO Adjust the width of the calendar to work with different devices
 */
 
+:root{
+    --main-blue:rgb(92, 204, 236);
+    --main-blue-dark: rgb(64, 142, 163);
+    --main-blue-darker: rgb(41, 106, 145);
+
+    --main-red: rgb(211, 61, 61);
+    --main-red-dark: rgb(182, 54, 54);
+}
+
 .calendar-container{
 
     /* Change width later */
@@ -41,6 +50,10 @@
     border: none;
 }
 
+small{
+    color: rgb(104, 103, 103);
+}
+
 .month-row{
     display: flex;
     justify-content: space-between;
@@ -52,18 +65,20 @@
     height: 45px;
     padding-top: 8px;
     text-align: center;
+
 }
 
 .day-cell-underline{
-    border-bottom: solid 2px #CF4D6F;
+    border-bottom: solid 2px var(--main-red-dark);
     padding-top: 0;
-    border-radius: 2px;
-    border-spacing: 0px;
+    border-radius: 1px;
+    width: 25%;
+    margin-left: 38%;
 }
 
 .today{
     font-weight: bolder;
-    color: rgb(211, 61, 61);
+    color: var(--main-red);
 }
 
 .day-cell > span{
@@ -79,17 +94,14 @@
 }
 
 .calendar-list-items{
-    display: flex;
+    /* display: flex;
     flex-direction: column;
-    /* align-items: flex-start; */
+    align-items: flex-start; */
 
 }
 
 .calendar-list-item{
     margin-bottom: 20px;
-    display: flex;
-    align-items: center;
-
 }
 
 .list-date{
@@ -97,5 +109,5 @@
 }
 
 .list-summary{
-    padding-left: 5px;
+    
 }
